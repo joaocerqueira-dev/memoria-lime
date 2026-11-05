@@ -1,0 +1,8 @@
+- [Tema LIME — conhecimento](tema-lime-conhecimento.md) — editor, paletas, tipografia, schema e layout do tema Lime; base para o MVP no FigCraft
+- [Integração FigCraft](figcraft-integracao.md) — MCP figcraft-app na porta 7979, como reativar se sumir
+- [Painel Irroba — segurança](irroba-painel-seguranca.md) — só leitura, nunca Publicar/Restaurar; truque do get_page_text
+- [Cliente Var Chocolates](cliente-var-chocolates.md) — BrandBook + proposta de layout Lime (bordô, raio 0, header L3) para o MVP no FigCraft
+- [FigCraft · gerador por script](figcraft-gerador-script.md) — figcraft-cli run com ids previsíveis; regras de instâncias/estilos
+- [Aplicação Var na Irroba](irroba-aplicacao-var.md) — o que foi publicado na TESSJBAF (módulos 95-98, /nossa-origem, CSS) e como o painel aceita POST/upload
+- [Cliente Bô · Eugenia Bologna](cliente-bo-eugenia-bologna.md) — proposta Lime só low-code (galeria, Em Cena, panôs 4 atmosferas); arquivos em conteudo-mvp/bo-eugenia-bologna
+- [Cliente Bell Boots](cliente-bell-boots.md) — tema China→Lime: mock no FigCraft (Home/Produto/Categoria) e pendências
