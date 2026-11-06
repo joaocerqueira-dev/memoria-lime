@@ -15,4 +15,4 @@ Regras aprendidas:
 - Outros valores: `scrollPosition` aceita sticky ou fixed; `overflow` aceita horizontal; em overlays use `position` topRight ou center; o gatilho de tempo é `{type: afterDelay, ms}`.
 - Se o MCP der timeout com "is the window visible?", a janela do FigCraft está minimizada: restaure-a.
 
-Exemplo completo: `conteudo-mvp\lime-implementacao\gerador`. Ver [[figcraft-integracao]] e [[cliente-var-chocolates]].
+Base do gerador: `geradores/figcraft/fc.py` (classe `B`) e `runcheck.py`. Ver [[figcraft-integracao]] e [[mocks-lime-aprendizados]].

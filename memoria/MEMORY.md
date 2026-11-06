@@ -2,3 +2,5 @@
 - [Integração FigCraft](figcraft-integracao.md) — MCP figcraft-app na porta 7979, como reativar se sumir
 - [Painel Irroba — segurança](irroba-painel-seguranca.md) — só leitura, nunca Publicar/Restaurar; truque do get_page_text
 - [FigCraft · gerador por script](figcraft-gerador-script.md) — figcraft-cli run com ids previsíveis; regras de instâncias/estilos
+- [Painel Irroba — mecânica](irroba-painel-mecanica.md) — POST/upload, editor, módulos, aba Código, catálogo e armadilhas
+- [Mocks Lime — aprendizados](mocks-lime-aprendizados.md) — fluxo da proposta, lições de FigCraft, mobile 390 e truque do iframe

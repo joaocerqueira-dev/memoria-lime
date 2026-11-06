@@ -1,0 +1,257 @@
+MAPA DO PAINEL ADMINISTRATIVO IRROBA
+ABA: Personalizar Loja
+Caminho pelo menu: menu lateral > Personalizar Loja
+Versão do painel: nova versão (Novo Dashboard)
+Data do reconhecimento: 13/10/2026
+
+================================================================
+1. FINALIDADE DA ABA
+================================================================
+Elementos visuais da loja virtual: banners, tarja informativa, banner de
+vídeo, módulos, selos e layouts gratuitos.
+
+Ao clicar em "Personalizar Loja", o menu lateral troca para o submenu,
+com o título "Personalizar Loja" e uma seta "<" no topo para voltar ao
+menu principal. O submenu tem 6 telas:
+  1. Banners
+  2. Tarja Informativa
+  3. Banner de Vídeo
+  4. Modulos
+  5. Selos
+  6. Layouts Gratuitos
+
+################################################################
+TELA 1: BANNERS
+################################################################
+Caminho: Personalizar Loja > Banners
+Caminho de navegação exibido no topo: "Dashboard > Banners". Título:
+"Banners".
+Botões do topo: "Excluir" (com ícone de lixeira) e "Adicionar" (verde).
+
+1.1 Lista
+Tabela com caixa de marcação em cada linha: Tipo ("Grade" ou
+"Carrossel"), Nome, Status (por exemplo "Habilitado"), Data de
+modificação (data, hora e usuário) e Ação (botão "Editar"). Os
+cabeçalhos Tipo, Nome, Status e Data de modificação têm setas de
+ordenação.
+
+1.2 Formulário "Adicionar" (Banner Versão 2)
+Abre como tela própria. Caminho de navegação: "Dashboard > Banners >
+Banner Versão 2". Botões "Voltar" e "Salvar" (verde).
+Bloco "Informações" (com ícone de ajuda):
+- Status (chave liga/desliga, vem ligada)
+- Nome do Banner * (texto)
+- Título da Grade (texto)
+- Data de Início/Término (duas datas com hora e ícone de calendário)
+- Exibir em (caixas de marcação "Desktop" e "Mobile")
+- Tipo do banner: (opções de escolha "Grade", que vem marcada, e
+  "Carrossel")
+Quando o tipo é "Grade":
+- Configuração de Grade (com ícone de ajuda): botões "Adicionar" (com
+  ícone de mais) e "Remover" (com ícone de menos) e uma área quadriculada
+  onde os blocos são desenhados; a barra "Altura do Banner" (com seta
+  para cima e para baixo) ajusta a altura.
+Quando o tipo é "Carrossel":
+- Bloco "Ordem de exibição das imagens", com o aviso: "Atenção ao
+  configurar as imagens: Certifique-se de manter a mesma ordem das
+  imagens entre Desktop e Mobile (ex.: a imagem 1 do Desktop deve
+  corresponder à imagem 1 do Mobile). Ao definir as datas de início e
+  fim, preencha os valores tanto para Desktop quanto para Mobile"
+- Duas áreas, "Desktop" e "Mobile", cada uma com o botão "Adicionar" (com
+  ícone de mais). Cada imagem adicionada aparece como um cartão numerado,
+  com um menu de três pontos e o botão "Adicionar" (para enviar a
+  imagem).
+- Bloco "Propriedades da Imagem N" (aparece ao selecionar uma imagem):
+  Nome da Imagem:; Alt da Imagem:; Link da imagem; Data de Início da
+  Imagem (data com hora, com ícone de ajuda); Data de Término da Imagem
+  (data com hora, com ícone de ajuda); Abrir Link: (seleção; vem em "Aba
+  atual").
+- Bloco "Configurações adicionais das imagens" (subtítulo
+  "Configurações Gerais, módulos, textos informativos"):
+  Mostrar setas de navegação (chave, vem desligada, com ícone de ajuda)
+  Mostrar dots do banner(bolinhas) (chave, vem desligada, com ícone de
+    ajuda)
+  Centralizar banners (chave, vem desligada, com ícone de ajuda)
+  Mostrar barra de rolagem do banner (chave, vem desligada, com ícone de
+    ajuda)
+  Tempo de transição das imagens (número)
+  Repetir transição das imagens: (seleção)
+  Efeito de transição das imagens: (seleção; vem em "Fade")
+  Tamanho do carrossel (número; vem em 0)
+  Número de itens no desktop (número; vem em 1)
+  Número de itens no mobile (número; vem em 1)
+  Margem entre itens * (número; vem em 0)
+- Bloco "Animação": Animação (chave liga/desliga, vem desligada, com
+  ícone de ajuda)
+Nos dois tipos, no fim: "Onde o módulo irá aparecer na loja / Selecione
+a página, a posição e a ordenação", com botão "Adicionar" (verde), faixa
+azul ("Na nova estrutura de template, os módulos da página inicial
+sempre ficam no mesmo nível. A ordenação ainda funciona, mas a posição é
+fixa como "Topo do Conteúdo".") e tabela com as colunas Layout, Posição e
+Ordem. Texto final: "Obs.: Recomendamos utilizar esse módulo no layout
+da "Página Inicial", "Dentro do Conteúdo" ou no "Topo do Conteúdo"."
+O atalho da Central de Ajuda mostra "Dúvidas sobre banner v2?" com o
+link "Acessar artigo".
+
+################################################################
+TELA 2: TARJA INFORMATIVA (BANNER TARJA)
+################################################################
+Caminho: Personalizar Loja > Tarja Informativa
+Caminho de navegação exibido no topo: "Dashboard > Tarja Informativa
+(Banner Tarja)". Título: "Tarja Informativa (Banner Tarja)".
+Botão do topo: "Adicionar" (verde).
+
+2.1 Lista
+Tabela com caixa de marcação no cabeçalho e as colunas Nome, Status,
+Data de Modificação e Ação (com setas de ordenação). Quando não há
+registros, mostra "Nenhum dado encontrado" e "Exibindo 0 a 0 de 0
+registros / 0 Página(s)".
+
+2.2 Formulário "Adicionar"
+Abre como tela própria. Caminho de navegação: "Dashboard > Módulos >
+Tarja Informativa (Banner Tarja)". Botões "Voltar" e "Salvar" (verde).
+- Status (chave liga/desliga, vem desligada)
+- Nome do Módulo * (texto)
+- Largura das imagens (número; vem em 100)
+- Altura das imagens (número; vem em 100)
+- Layout do Item (seleção; vem em "Horizontal"; opções: Horizontal,
+  Vertical, Apenas Imagem)
+- Itens visíveis (Desktop) (número; vem em 3)
+- Itens visíveis (Tablet) (número)
+- Itens visíveis (Mobile) (número)
+- Autoplay (chave, vem desligada, com ícone de ajuda)
+- Pausar ao passar o mouse (chave, vem desligada, com ícone de ajuda)
+- Loop (chave, vem desligada, com ícone de ajuda)
+- Navegação (Setas) (chave, vem desligada, com ícone de ajuda)
+- Paginação (Pontos) (chave, vem desligada, com ícone de ajuda)
+- Bloco "Título / Descrição / Link / Imagem": botão "Adicionar" (verde) e
+  tabela com as colunas Título, Descrição, Link, Imagem, Ordem e Ação
+  ("Nenhum Resultado!" quando vazia)
+- "Onde o módulo irá aparecer na loja / Selecione a página, a posição e
+  a ordenação": botão "Adicionar" (verde), faixa azul (a mesma da tela
+  de Banners) e tabela com as colunas Layout, Posição e Ordem
+- Texto final: "Obs.: Este módulo está disponível apenas para lojas que
+  utilizam o tema Lime (nova estrutura)."
+
+################################################################
+TELA 3: BANNER DE VÍDEO
+################################################################
+Caminho: Personalizar Loja > Banner de Vídeo
+Caminho de navegação exibido no topo: "Dashboard > Banner de Vídeo".
+Título: "Banner de Vídeo".
+Botões do topo: "Excluir" (com ícone de lixeira) e "Adicionar" (verde).
+
+3.1 Lista
+Tabela com caixa de marcação em cada linha: Nome, Status (etiqueta, por
+exemplo "Inativo"), Data de Modificação (data, hora e usuário) e Ação
+(botão "Editar"). Os cabeçalhos têm setas de ordenação.
+
+3.2 Formulário "Adicionar"
+Abre como tela própria. Caminho de navegação: "Dashboard > Módulos >
+Banner de Vídeo". Botões "Voltar" e "Salvar" (verde).
+- Status (chave liga/desliga, vem desligada)
+- Nome do Módulo * (texto, com ícone de ajuda)
+- Faixa azul: "Recomendação: Utilize o Vimeo para hospedar seus vídeos.
+  A plataforma oferece autoplay, player sem marca d'água, além de
+  recursos avançados de personalização e privacidade."
+- Bloco "Configurações Desktop": Incorporação do Vídeo (seleção; vem em
+  "URL do vídeo"; opções: URL do vídeo, Código iframe completo); URL do
+  vídeo (texto; exemplo no campo: "Exemplo:
+  https://www.youtube.com/watch?v=VIDEO_ID ou
+  https://vimeo.com/VIDEO_ID"); Link de redirecionamento (texto)
+- Bloco "Configurações Mobile": os mesmos 3 campos (Incorporação do
+  Vídeo, URL do vídeo e Link de redirecionamento)
+- "Onde o módulo irá aparecer na loja / Selecione a página, a posição e
+  a ordenação": botão "Adicionar" (verde), faixa azul (a mesma da tela
+  de Banners) e tabela com as colunas Layout, Posição e Ordem
+- Texto final: "Obs.: Este módulo está disponível apenas para lojas que
+  utilizam o tema Lime (nova estrutura)."
+
+################################################################
+TELA 4: MODULOS
+################################################################
+Caminho: Personalizar Loja > Modulos
+Abre a mesma tela "Módulos" descrita no arquivo 07-configuracoes.txt
+(Configurações > Módulos): lista de módulos com os botões "Instalar" e
+os ícones de editar, de lixeira e de desativar.
+
+################################################################
+TELA 5: SELOS
+################################################################
+Caminho: Personalizar Loja > Selos
+Caminho de navegação exibido no topo: "Dashboard > Selos". Título:
+"Selos". Botões do topo: "Voltar" e "Salvar" (verde). Tem 2 abas, em
+botões: "Geral" (abre primeiro) e "E-bit".
+
+5.1 Aba "Geral"
+Faixa azul: "Importante: Este template possui selos padrão no rodapé.
+Quando você configurar uma imagem personalizada para um selo, ela
+substituirá automaticamente o selo padrão correspondente."
+Bloco "Selo da Forma de Pagamento":
+- Ativar Selo da Forma de Pagamento (chave liga/desliga, vem ligada;
+  observação: "OBS: A imagem só vai se modificar se a forma de pagamento
+  ativa não for "MercadoPago""), com botão "Adicionar" (ícone de imagem)
+  e a dica "Recomendamos o tamanho 336x33"
+Bloco "Selos de Segurança":
+- Ativar selo do Google Browsing Safe (chave, vem desligada; texto: "Para
+  que o selo apareça no site é necessário que seja verificado pelo
+  Google Safe Browsing. Clique aqui e veja se está verificado."), com
+  botão "Adicionar" e a dica "Recomendamos o tamanho 117x45"
+- Ativar Selo Personalizado de Loja Segura (chave, vem desligada), com
+  botão "Adicionar" e a dica "Recomendamos o tamanho 110x50"
+- Ativar certificado ABCOMM (campo de texto "Link do certificado
+  ABCOMM"), com a miniatura do selo e os botões "Editar" e "Excluir" e a
+  dica "Recomendamos o tamanho 180x45"
+Bloco "Selos da Forma de Envio":
+- Ativar selo dos Correios (chave, vem desligada), com botão "Adicionar"
+  e a dica "Recomendamos o tamanho 117x45"
+- Ativar selo da Transportadora (chave, vem desligada), com botão
+  "Adicionar" e a dica "Recomendamos o tamanho 117x45"
+- Código HTML do selo (editor de código; vem com "<br>")
+
+5.2 Aba "E-bit"
+Texto: "Caso não tenha um cadastro no E-bit, clique aqui e cadastre sua
+loja." (link "clique aqui").
+- Selo e-bit: caixa de código com o modelo do selo e, abaixo, campos
+  para {NOME LOJA} (exemplo: nomeloja) e {CODE} (exemplo: 55765), com a
+  instrução "Encontre o código no seu exemplo, verificando onde está
+  escrito [__CODE__]"
+- Banner e-bit: caixa de código com o modelo do banner e campo para
+  {CODE} (exemplo: 55765), com a mesma instrução
+- "Modelo de como ficará": imagem de exemplo
+O atalho da Central de Ajuda mostra "Dúvidas sobre selos?" com o link
+"Acessar artigo".
+
+################################################################
+TELA 6: LAYOUTS GRATUITOS (TEMAS)
+################################################################
+Caminho: Personalizar Loja > Layouts Gratuitos
+Caminho de navegação exibido no topo: "Dashboard > Temas". Título:
+"Temas".
+Botões do topo: "Visualizar Loja" e "Quero um Tema Exclusivo" (verde,
+com ícone de conversa).
+
+6.1 Bloco "Tema atual"
+Botão "Editar tema" (verde). Mostra a pré-visualização do tema em uso, o
+nome do tema, o "Código do Tema" e "Publicado em: (data e hora) por:
+(usuário)".
+
+6.2 Bloco "Biblioteca de temas"
+- Campo de busca (com lupa)
+- Visualizar: (seleção da quantidade por página; opções: 12, 24, 36, 48)
+- Ordernar por: (seleção; opções: (Padrão), Recentes, Mais antigos, Nome
+  (A - Z), Nome (Z - A), Preço (Baixo > Alto), Preço (Alto > Baixo))
+- Texto: "As imagens abaixo são meramente ilustrativas, a disposição dos
+  banners foi realizada através de módulos disponíveis na plataforma."
+- Cartões de temas, cada um com a imagem de pré-visualização, etiquetas
+  ("Grátis", "Novidade", "Beta"), o nome com o código, um ícone para
+  abrir em nova aba e os botões "Visualizar" e "Aplicar". Temas listados
+  (28 no total, 12 por página, 3 páginas): LIME (940001), TERRACOTA
+  (940002), ALGERIA, AUSTRALIA, AUSTRIA, BAHAMAS, BAT, BELGIUM, CANADA,
+  CHILE, CHINA, COLOMBIA, CROATIA, DENMARK, ECUADOR, EGYPT, ENGLAND,
+  FALCON, FINLAND, GERMANY, GREECE, GUINEA, HAITI, INDONESIA, ISRAEL,
+  Libya, OWL e TIGER (os demais têm códigos 9100NN).
+- Rodapé: "Exibindo N a N de N registros / N Página(s)" e números de
+  página.
+O atalho da Central de Ajuda mostra "Dúvidas sobre temas?" com o link
+"Acessar artigo".

@@ -9,7 +9,7 @@ metadata:
 ---
 
 O conhecimento completo do tema LIME (Irroba, código 940001, template_id 80, `_lime`) está em
-`C:\Users\joaoc\OneDrive\Desktop\Lime\conhecimento\tema-lime.md` (levantado em 19/10/2026). Mapa das telas de "Personalizar Loja" em `mapeamento/personalizar-loja.txt`.
+`conhecimento/tema-lime.md` neste repositório (levantado em 19/10/2026). Mapa das telas de "Personalizar Loja" em `conhecimento/personalizar-loja.txt`.
 
 Resumo essencial:
 - Editor = 3 abas: Tema (editor visual com painéis por componente), Código (CSS/JS), Configurações (paleta, fontes, arredondamento, botões, layout do cabeçalho 1/2/3).
